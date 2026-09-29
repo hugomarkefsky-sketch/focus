@@ -1,0 +1,23 @@
+FOCUS AUFS IPHONE BRINGEN (kostenlos, über GitHub Pages)
+
+1. Auf github.com kostenlos registrieren (falls noch kein Konto).
+2. Oben rechts "+" > "New repository". Name z. B.: focus
+   Auf "Public" lassen, dann "Create repository".
+3. Auf "uploading an existing file" klicken und ALLE Dateien aus diesem
+   Ordner hineinziehen (index.html, manifest.json, sw.js, die drei Icons).
+   Unten "Commit changes".
+4. Im Repository: Settings > Pages. Bei "Branch" "main" und "/ (root)"
+   wählen, Save. Nach ca. 1 Minute steht oben der Link, z. B.:
+   https://DEINNAME.github.io/focus/
+5. Diesen Link auf dem iPhone in SAFARI öffnen.
+6. Teilen-Symbol > "Zum Home-Bildschirm". "Als Web-App öffnen" muss an sein.
+   Hinzufügen.
+
+UPDATES
+Neue index.html hochladen und in sw.js die VERSION erhöhen (focus-v4 ...).
+Beim nächsten Öffnen lädt das iPhone die neue Version.
+
+WICHTIG
+- Die Daten liegen auf dem Gerät. Wird die App vom Home-Bildschirm gelöscht,
+  sind sie weg. Vorher unter "Du" > "Backup-Code kopieren" sichern.
+- Freunde öffnen einfach deinen Link und machen Schritt 6.
